@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Como consumidor se desea consultar las mascotas" tests="1" skipped="0" failures="1" errors="0" timestamp="2021-10-01T21:35:23" hostname="DESKTOP-TQTLEH1" time="0.595">
+  <properties/>
+  <testcase name="Un consumidor requiere consultar el listado de mascotas" classname="Como consumidor se desea consultar las mascotas" time="0.595">
+    <failure message="java.lang.NullPointerException" type="java.lang.NullPointerException">java.lang.NullPointerException
+	at stepdefinitions.consultarUsuarioStep.queUnConsumidorQuiereConsultarElListadoDeMascotas(consultarUsuarioStep.java:31)
+	at ✽.que un consumidor quiere consultar el listado de mascotas(file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:5)
+</failure>
+  </testcase>
+  <system-out><![CDATA[Feature from file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

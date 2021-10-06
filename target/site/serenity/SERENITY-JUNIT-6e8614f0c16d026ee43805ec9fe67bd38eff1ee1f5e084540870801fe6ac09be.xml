@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Como consumidor se desea consultar las mascotas" skipped="0" tests="1" time="0.36" timestamp="2021-10-01 04:35:23"><testcase name="Un consumidor requiere consultar el listado de mascotas"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+stepdefinitions.consultarUsuarioStep.queUnConsumidorQuiereConsultarElListadoDeMascotas(consultarUsuarioStep.java:31)&#13;
+✽.que un consumidor quiere consultar el listado de mascotas(file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:5)&#13;
+</system-err></testcase></testsuite>

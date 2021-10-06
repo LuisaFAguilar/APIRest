@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="runners.consultarUsuarioRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DESKTOP-TQTLEH1" time="0.0">
+  <properties/>
+  <system-out><![CDATA[Feature from file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature
+
+?[31mFailed scenarios:?[0m
+?[31mfile:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:4?[0m# Un consumidor requiere consultar el listado de mascotas
+
+1 Scenarios (?[31m1 failed?[0m)
+3 Steps (?[31m1 failed?[0m, ?[36m2 skipped?[0m)
+0m0,830s
+
+
+java.lang.NullPointerException
+	at stepdefinitions.consultarUsuarioStep.queUnConsumidorQuiereConsultarElListadoDeMascotas(consultarUsuarioStep.java:31)
+	at ✽.que un consumidor quiere consultar el listado de mascotas(file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:5)
+
+
+]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>

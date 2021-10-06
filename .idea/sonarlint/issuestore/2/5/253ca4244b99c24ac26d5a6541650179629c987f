@@ -1,0 +1,8 @@
+
+s
+java:S1128"XRemove this unused import 'net.serenitybdd.screenplay.rest.questions.RestQueryFunction'.(‹²‚Ÿþÿÿÿÿ
+F
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬ùÝŒüÿÿÿÿ
+a
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(›¨ìj
