@@ -1,0 +1,31 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+.gradle/
+.gradle
+*.iml
+*.iws
+classes/
+
+# Gradle
+log/
+gradle/
+target/
+hooks/pre-push
+# Java
+build/
+out/
+*.class
+*.jar
+*.war
+*.ear
+
+# Log file
+*.log
+.scannerwork/report-task.txt
+.scannerwork/.sonar_lock
+.scannerwork/

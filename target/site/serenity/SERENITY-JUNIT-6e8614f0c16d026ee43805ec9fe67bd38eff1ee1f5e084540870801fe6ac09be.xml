@@ -1,4 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Como consumidor se desea consultar las mascotas" skipped="0" tests="1" time="0.36" timestamp="2021-10-01 04:35:23"><testcase name="Un consumidor requiere consultar el listado de mascotas"><error type="java.lang.NullPointerException"/><system-err>null&#13;
-stepdefinitions.consultarUsuarioStep.queUnConsumidorQuiereConsultarElListadoDeMascotas(consultarUsuarioStep.java:31)&#13;
-✽.que un consumidor quiere consultar el listado de mascotas(file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:5)&#13;
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Como consumidor se desea consultar las mascotas" skipped="0" tests="1" time="3.35" timestamp="2021-10-07 04:14:58"><testcase name="Un consumidor requiere consultar el listado de mascotas"><failure message="1 expectation failed.&#10;Expected status code &lt;200&gt; but was &lt;403&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;403&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;200&gt; but was &lt;403&gt;.
+&#13;
+stepdefinitions.consultarUsuarioStep.seListanLasMascotasConsultadas(consultarUsuarioStep.java:42)&#13;
+✽.Se listan las mascotas consultadas(file:///C:/Users/Usuario/IdeaProjects/APIRest/src/test/resources/features/consultarmascota.feature:7)&#13;
 </system-err></testcase></testsuite>

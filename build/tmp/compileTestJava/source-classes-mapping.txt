@@ -1,4 +1,8 @@
+runners/consultarTokenRunner.java
+ runners.consultarTokenRunner
 runners/consultarUsuarioRunner.java
  runners.consultarUsuarioRunner
 stepdefinitions/consultarUsuarioStep.java
  stepdefinitions.consultarUsuarioStep
+stepdefinitions/consultarTokenStep.java
+ stepdefinitions.consultarTokenStep
